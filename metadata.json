@@ -1,0 +1,6 @@
+{
+  "name": "AI SaaS",
+  "description": "Multi-tenant AI SaaS application with CRM, leads pipeline, campaigns, WhatsApp automation, analytics, team & billing management in a Light Pink + Black + White design system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

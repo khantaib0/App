@@ -1,0 +1,41 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Pink + Black + White Palette (Day Mode)
+val PrimaryPink = Color(0xFFF7B6C8)
+val SoftPink = Color(0xFFFFF1F5)
+val DeepPink = Color(0xFFE85D8A)
+val AccentPink = Color(0xFFFF85A1)
+val PureBlack = Color(0xFF111111)
+val DarkText = Color(0xFF181818)
+val PureWhite = Color(0xFFFFFFFF)
+val MutedGray = Color(0xFF6B6B6B)
+val LightGray = Color(0xFF9E9E9E)
+val BorderLight = Color(0xFFEAEAEA)
+val CardBackgroundLight = Color(0xFFFFFFFF)
+val SurfaceLight = Color(0xFFFAFAFA)
+
+// Night Mode (🌙 Dark)
+val DarkBackground = Color(0xFF0D0D0D)
+val DarkCard = Color(0xFF171717)
+val DarkSurface = Color(0xFF1F1F1F)
+val DarkPrimaryPink = Color(0xFFF7A8C0)
+val DarkSoftPink = Color(0xFF2C1920)
+val DarkTextWhite = Color(0xFFFFFFFF)
+val DarkSecondaryText = Color(0xFFAFAFAF)
+val DarkBorder = Color(0xFF2A2A2A)
+val DarkButtonPink = Color(0xFFF7B6C8)
+val DarkButtonText = Color(0xFF111111)
+
+// Status Colors
+val SuccessGreen = Color(0xFF10B981)
+val SuccessGreenBg = Color(0xFFECFDF5)
+val WarningOrange = Color(0xFFF59E0B)
+val WarningOrangeBg = Color(0xFFFFFBEB)
+val InfoBlue = Color(0xFF3B82F6)
+val InfoBlueBg = Color(0xFFEFF6FF)
+val ErrorRed = Color(0xFFEF4444)
+val ErrorRedBg = Color(0xFFFEF2F2)
+val WhatsAppGreen = Color(0xFF25D366)
+val WhatsAppGreenDark = Color(0xFF128C7E)
